@@ -1,6 +1,4 @@
-# HR11-Automation-Track
-Automation Track for Hack Rice 11
-
+# Hack Rice 11 Automation Track
 
 ## Track Description
 Automation has existed for as long as we’ve been alive—from the invention of the water clock to machines assembling cars. It exists to increase efficiency while eliminating human error. Usually when we hear the word “automation” we think of robots in factories. But with the rise of digital technology, we’ve seen automation take different forms. We’ve seen digital automation in the form of job schedulers all the way to automated voice machines when you call technical support. It exists all around us, and its use only continues to grow.
